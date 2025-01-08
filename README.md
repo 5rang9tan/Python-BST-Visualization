@@ -4,11 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/5rang9tan/UsingSessionManager">
+  <a href="https://github.com/5rang9tan/Python-BST-Visualization">
     <img src="cubes/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Using Session Manager</h3>
+  <h3 align="center">Python BST Visualization</h3>
 
   <p align="center">
     파이썬을 통해 이진 탐색트리의 노드 생성 및 삭제 과정을 시각화합니다.
