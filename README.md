@@ -25,7 +25,7 @@
 
 이진 탐색트리는 중위순회 방식과 연계하여 데이터의 정렬 및 파일 데이터 색인 기능을 제공하는 알고리즘입니다. 해당 이진 탐색트리에 데이터를 추가하고 삭제하는 과정을 시각화하여, 이진 탐색트리가 어떠한 방식으로 트리 구조를 운영해가는 지를 확인할 수 있습니다.
 
-# 이진 탐색 트리 노드 생성 과정
+### 이진 탐색 트리 노드 생성 과정
 
 1. **루트 노드 확인**
    - 트리가 비어있으면 새로운 노드를 루트로 설정합니다.
@@ -44,7 +44,7 @@
 5. **완료 메시지**
    - 노드가 성공적으로 추가되면, 성공 메시지를 반환합니다.
   
-# 이진 탐색 트리 노드 삭제 과정
+### 이진 탐색 트리 노드 삭제 과정
 
 1. **노드 검색**
    - 삭제할 노드를 찾기 위해 트리를 탐색합니다.
@@ -71,10 +71,8 @@
    - 삭제가 완료되면 성공 메시지를 반환합니다.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-# 필요한 파이썬 확장 라이브러리
+### 필요한 파이썬 확장 라이브러리
 
 이 프로젝트를 실행하기 위해 필요한 파이썬 확장 라이브러리는 다음과 같습니다:
 
@@ -82,17 +80,17 @@
 - `networkx`: 복잡한 네트워크를 생성하고 분석하기 위한 라이브러리
 - `numpy`: 과학적 계산을 위한 라이브러리
 
-## 설치 방법
+#### 설치 방법
 
 다음 명령어를 사용하여 필요한 라이브러리를 설치할 수 있습니다:
 
 ```bash
 pip install matplotlib networkx numpy
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ```
 
-### 사용 언어
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 사용 언어
 
 - <img src="https://img.shields.io/badge/Operating System-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
 - <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
