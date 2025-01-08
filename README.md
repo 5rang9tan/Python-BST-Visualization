@@ -74,6 +74,23 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+# 필요한 파이썬 확장 라이브러리
+
+이 프로젝트를 실행하기 위해 필요한 파이썬 확장 라이브러리는 다음과 같습니다:
+
+- `matplotlib`: 데이터 시각화를 위한 라이브러리
+- `networkx`: 복잡한 네트워크를 생성하고 분석하기 위한 라이브러리
+- `numpy`: 과학적 계산을 위한 라이브러리
+
+## 설치 방법
+
+다음 명령어를 사용하여 필요한 라이브러리를 설치할 수 있습니다:
+
+```bash
+pip install matplotlib networkx numpy
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+```
 
 ### 사용 언어
 
